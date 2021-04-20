@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @0x28BC
 - 👀 Pasting 7/24 ...
+- 👋 Contact lonzykinq@protonmail.com
