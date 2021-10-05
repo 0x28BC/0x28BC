@@ -9,12 +9,16 @@
 
 👾 Learning Methods and new stuffs
 
-*/
+
 💼 Tech Stack
 
 💻   C++ | C#
 
 🌐   PHP | HTML
-/*
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x28BC)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![](https://dcbadge.vercel.app/api/shield/821267001548734484)
