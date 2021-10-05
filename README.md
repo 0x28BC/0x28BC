@@ -21,4 +21,5 @@
 
 
 
-![](https://dcbadge.vercel.app/api/shield/821267001548734484)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=821267001548734484<your discord id>)
+
