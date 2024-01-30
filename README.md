@@ -5,17 +5,6 @@
 
 🐱‍💻 Developing software solutions and hacks.
 
-💼 Working as a freelancer 
-
-👾 Learning Methods and new stuffs
-
-
-💼 Tech Stack
-
-💻   C++ | C#
-
-🌐   PHP | HTML
-
 - 📫 How to reach me **lonzykinq@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
