@@ -14,9 +14,9 @@
 <a href="lonzy#4348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="driftingwithbentley" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x28BC)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821267001548734484)](https://discord.com/users/821267001548734484)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821267001548734484)](https://discord.com/users/1082380367023063171)
 
