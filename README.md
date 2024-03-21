@@ -5,7 +5,7 @@
 
 🐱‍💻 Developing software solutions and hacks.
 
-- 📫 How to reach me **lonzykinq@protonmail.com**
+- 📫 How to reach me **discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
